@@ -1,7 +1,7 @@
 {
     "name": "my-monsters-pwa",
     "short_name": "my-monsters-pwa",
-    "start_url": "https://albertomtferreira.github.io/my-monsters-deploy/",
+    "start_url": "./",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
