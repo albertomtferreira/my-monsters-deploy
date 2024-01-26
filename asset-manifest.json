@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/my-monsters-deploy/static/css/main.3346abe1.css",
-    "main.js": "/my-monsters-deploy/static/js/main.989830bc.js",
+    "main.js": "/my-monsters-deploy/static/js/main.9dc18fdd.js",
     "static/js/787.a5fe8b7a.chunk.js": "/my-monsters-deploy/static/js/787.a5fe8b7a.chunk.js",
+    "service-worker.js": "/my-monsters-deploy/service-worker.js",
     "index.html": "/my-monsters-deploy/index.html",
     "main.3346abe1.css.map": "/my-monsters-deploy/static/css/main.3346abe1.css.map",
-    "main.989830bc.js.map": "/my-monsters-deploy/static/js/main.989830bc.js.map",
+    "main.9dc18fdd.js.map": "/my-monsters-deploy/static/js/main.9dc18fdd.js.map",
     "787.a5fe8b7a.chunk.js.map": "/my-monsters-deploy/static/js/787.a5fe8b7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3346abe1.css",
-    "static/js/main.989830bc.js"
+    "static/js/main.9dc18fdd.js"
   ]
 }
